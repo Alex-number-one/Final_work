@@ -23,5 +23,5 @@ Console.Write( Array2[i]+ " ");
 }
 }
 }
-first();
-second ();
+first(Array1, Array2);
+second (Array2);
