@@ -1,0 +1,15 @@
+C:\Users\AlexTheOne\Desktop\План\план\bin\Debug\net6.0\план.exe
+C:\Users\AlexTheOne\Desktop\План\план\bin\Debug\net6.0\план.deps.json
+C:\Users\AlexTheOne\Desktop\План\план\bin\Debug\net6.0\план.runtimeconfig.json
+C:\Users\AlexTheOne\Desktop\План\план\bin\Debug\net6.0\план.dll
+C:\Users\AlexTheOne\Desktop\План\план\bin\Debug\net6.0\план.pdb
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.csproj.AssemblyReference.cache
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.AssemblyInfoInputs.cache
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.AssemblyInfo.cs
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.csproj.CoreCompileInputs.cache
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.dll
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\refint\план.dll
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.pdb
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\план.genruntimeconfig.cache
+C:\Users\AlexTheOne\Desktop\План\план\obj\Debug\net6.0\ref\план.dll
